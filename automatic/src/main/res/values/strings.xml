@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">automatic</string>
+  <string name="action_settings">settings</string>
+
+
+  <string name="address_from">From: %1$s</string>
+  <string name="address_to">To: %1$s</string>
+  <string name="trip_cost">Cost: %1$s</string>
+  <string name="trip_duration">Duration: %1$s seconds</string>
+  <string name="menu_origin">origin</string>
+  <string name="menu_destination">destination</string>
+  <string name="menu_distance">distance</string>
+  <string name="menu_cost">cost</string>
+  <string name="title_activity_path">Map</string>
+  <string name="menu_path">show paths</string>
+
+</resources>
